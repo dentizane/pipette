@@ -1,0 +1,29 @@
+{
+  "name": "pipette",
+  "version": "1.0.0",
+  "description": "A node module for simple string sending over Windows named pipes",
+  "main": "pipette.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dentizane/pipette.git"
+  },
+  "keywords": [
+    "named",
+    "pipes",
+    "CLI",
+    "IPC",
+    "interprocess",
+    "communication",
+    "Windows"
+  ],
+  "author": "Zane Huston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dentizane/pipette/issues"
+  },
+  "homepage": "https://github.com/dentizane/pipette#readme",
+  "dependencies": {}
+}
