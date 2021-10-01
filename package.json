@@ -1,5 +1,5 @@
 {
-  "name": "pipette",
+  "name": "@zaneh/pipette",
   "version": "1.0.0",
   "description": "A node module for simple string sending over Windows named pipes",
   "main": "pipette.js",
@@ -19,7 +19,7 @@
     "communication",
     "Windows"
   ],
-  "author": "Zane Huston",
+  "author": "Zane H",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dentizane/pipette/issues"
